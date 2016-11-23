@@ -53,4 +53,11 @@ Markdown te permite poner [enlaces a una pagina web](https://github.com/JKonde19
 En Markdown también se pueden poner imágenes:
 
 ![Imagen de Jarvan IV](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg 'Imagen de Jarvan IV')
+
+| Personaje | Posición | Pasiva      |
+|-----------|----------|-------------|
+| Tristana  | ADC      | Rango Largo |
+| Annie     | MID      | Stun        |
+| Garen     | TOP      | Ganar Vida  |
+| 
   
