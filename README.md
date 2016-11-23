@@ -69,6 +69,6 @@ En Markdown también se pueden poner imágenes:
  
  Markdown te permite crear listas de chequeo:
  
- - [] Patatas.
+ - [ ] Patatas.
  - [X] Arroz.
- - [] Jamón.
+ - [ ] Jamón.
