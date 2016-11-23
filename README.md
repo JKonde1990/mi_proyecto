@@ -59,5 +59,4 @@ En Markdown también se pueden poner imágenes:
 | Tristana  | ADC      | Rango Largo |
 | Annie     | MID      | Stun        |
 | Garen     | TOP      | Ganar Vida  |
-| 
   
