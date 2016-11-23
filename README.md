@@ -27,3 +27,23 @@ También en Markdown puedes poner código de cualquier lenguaje:
 ```
 
 Además puedes poenr código en una misma línea: `git commit -m "corregido fallo 6581"`.
+
+1. Tristana.
+2. Ashe.
+3. Sivir.
+
+Y de listas no ordenadas:
+
+* xPeke.
+* Faker.
+* Niels.
+
+También es posible rear listas anidadas:
+
+1. Tristana.
+  * ADC.
+  * Poco rango inicial.
+2. Ashe.
+  1. ADC.
+  2. Poca movilidad.
+  
