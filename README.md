@@ -48,5 +48,9 @@ También es posible rear listas anidadas:
   1. ADC.
   2. Poca movilidad.
   
-Markdown te permite poner [enlaces a una pagina web](https://github.com/JKonde1990/), incluso sólo poniendo la URL:
+Markdown te permite poner [enlaces a una pagina web](https://github.com/JKonde1990/), incluso sólo poniendo la URL: http://www.google.es
+
+En Markdown también se pueden poner imágenes:
+
+![Imagen de Jarvan IV](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg 'Imagen de Jarvan IV')
   
