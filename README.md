@@ -60,3 +60,5 @@ En Markdown también se pueden poner imágenes:
 | Annie     | MID      | Stun        |
 | Garen     | TOP      | Ganar Vida  |
   
+  Se pueden poner citas:
+  > En un lugar de la Mancha, de cuyo nombre no quiero acordarme...
