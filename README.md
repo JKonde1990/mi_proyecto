@@ -60,7 +60,15 @@ En Markdown también se pueden poner imágenes:
 | Annie     | MID      | Stun        |
 | Garen     | TOP      | Ganar Vida  |
   
-  Se pueden poner citas:
-  > En un lugar de la Mancha, de cuyo nombre no quiero acordarme...
   
-  > Hola
+  Se pueden poner citas:
+  &bnsp;
+  
+  
+  > En un lugar de la Mancha, de cuyo nombre no quiero acordarme...
+ 
+ Markdown te permite crear listas de chequeo:
+ 
+ - [] Patatas.
+ - [X] Arroz.
+ - [] Jamón.
