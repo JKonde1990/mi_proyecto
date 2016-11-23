@@ -52,7 +52,7 @@ Markdown te permite poner [enlaces a una pagina web](https://github.com/JKonde19
 
 En Markdown también se pueden poner imágenes:
 
-![Imagen de Olaf](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg 'Imagen de Olaf')
+![Imagen de Olaf](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_3.jpg 'Imagen de Olaf')
 
 | Personaje | Posición | Pasiva      |
 |-----------|----------|-------------|
