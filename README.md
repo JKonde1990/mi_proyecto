@@ -43,6 +43,7 @@ También es posible rear listas anidadas:
 1. Tristana.
   * ADC.
   * Poco rango inicial.
+    * Mucho rango final.
 2. Ashe.
   1. ADC.
   2. Poca movilidad.
